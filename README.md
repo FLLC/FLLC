@@ -14,4 +14,4 @@
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/ferranllorcamataix/)
+[LinkedIn](https://www.linkedin.com/in/ferranllorcamataix/)
