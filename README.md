@@ -1,4 +1,4 @@
-# Hi, I'm Ferran Llorca
+# Hi, I'm Ferran Llorca Mataix 
 
 🎓 MSc Quantitative Finance (Erasmus University Rotterdam)  
 📊 BSc Econometrics & Operations Research (University of Groningen)
