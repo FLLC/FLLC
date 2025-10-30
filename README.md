@@ -8,7 +8,7 @@
 ### Featured Projects
 - [BSc Thesis – Robust LASSO under Contamination](https://github.com/FLLC/bsc-thesis-robust-lasso)
 - [DCF Valuation Model](https://github.com/FLLC/dcf-valuation-api)
-- [Distributional Forecasting with Machine Learning](https://github.com/FLLC/ml-econometrics-distributional-modeling)
+- [Distributional Forecasting with Machine Learning]([https://github.com/FLLC/ml-econometrics-distributional-modeling](https://github.com/FLLC/distributional-forecasting-with-machine-learning))
 - [Asset Pricing Simulation]()
 - [Trading Algorithms (FD)]()
 - [Dividend Dates Analysis]()
