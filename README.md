@@ -1,18 +1,19 @@
-# 👋 Hi, I'm Ferran Llorca
+# Hi, I'm Ferran Llorca
 
-🎓 MSc Quantitative Finance (EUR) |  BSc Econometrics & Operations Research (RUG) 
+🎓 MSc Quantitative Finance (Erasmus University Rotterdam)  
+📊 BSc Econometrics & Operations Research (University of Groningen)
 
 ---
 
 ### Featured Projects
 - [Thesis – Robust LASSO under Outliers]()
 - [DCF Valuation Model]()
-- [Machine Learning]()
-- [Asset Pricing]()
-- [Trading Algorithms FD]()
-- [Dividend Dates]()
-- [CS50AI]()
+- [Machine Learning Models]()
+- [Asset Pricing Simulation]()
+- [Trading Algorithms (FD)]()
+- [Dividend Dates Analysis]()
+- [CS50 AI Projects]()
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/ferranllorca/)
+📫 [LinkedIn](https://www.linkedin.com/in/ferranllorcamataix/)
