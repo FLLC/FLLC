@@ -6,8 +6,8 @@
 ---
 
 ### Featured Projects
-- [BSc Thesis – Robust LASSO under Contamination](https://github.com/FLLC/bsc_thesis_robust_lasso)
-- [DCF Valuation Model]()
+- [BSc Thesis – Robust LASSO under Contamination]()
+- [DCF Valuation Model](https://github.com/FLLC/dcf-valuation-api)
 - [Machine Learning Models]()
 - [Asset Pricing Simulation]()
 - [Trading Algorithms (FD)]()
